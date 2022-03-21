@@ -1,7 +1,7 @@
 
 #define GLM_FORCE_RADIANS
 #include "draw.h"
-#include <glad/glad.h>
+#include "glad.h"
 #include <GLFW/glfw3.h>
 #include <iostream>
 #include <array>
