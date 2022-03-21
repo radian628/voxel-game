@@ -11,7 +11,7 @@
 #include <unordered_set>
 #include <vector>
 #include <functional>
-#include <glad/glad.h>
+#include "glad.h"
 #include <GLFW/glfw3.h>
 #include <array>
 #include <atomic>
